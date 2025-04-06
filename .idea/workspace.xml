@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8e60429-6bd1-40ca-9384-0a6b2b315851" name="Changes" comment="" />
+    <list default="true" id="c8e60429-6bd1-40ca-9384-0a6b2b315851" name="Changes" comment="Installing TailwindCSS">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "khalifa707"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/khalifa707/Tailwind-CSS-Crash-Course.git",
+    "accountId": "461dc824-36ef-4e88-b6e1-97a8d582df40"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -62,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1743889590288</updated>
       <workItem from="1743889591541" duration="1085000" />
-      <workItem from="1743922994149" duration="959000" />
+      <workItem from="1743922994149" duration="3195000" />
     </task>
     <servers />
   </component>
@@ -79,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Installing TailwindCSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Installing TailwindCSS" />
   </component>
 </project>
